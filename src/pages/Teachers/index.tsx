@@ -10,7 +10,7 @@ import './styles.css'
 function Teachers() {
   return (
     <div id="page-teacher-list" className="container">
-      <Header title="Estes são ps proffys disponíveis">
+      <Header title="Estes são os proffys disponíveis">
         <form action="" id="search-teachers">
 
           <div className="input-block">
@@ -33,7 +33,7 @@ function Teachers() {
       </Header>
 
       <main>
-        
+
         <TeacherItem />
         <TeacherItem />
         <TeacherItem />

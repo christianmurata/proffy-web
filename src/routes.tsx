@@ -1,7 +1,7 @@
 import React from 'react';
 import{ BrowserRouter, Route } from 'react-router-dom';
 
-// paginas
+// pages
 import Landing from './pages/Landing';
 import Teachers from './pages/Teachers';
 import TeachersForm from './pages/TeachersForm';
