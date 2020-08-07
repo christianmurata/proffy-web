@@ -56,6 +56,10 @@
   display: block;
 }
 
+.teacher-item footer a {
+  text-decoration: none;
+}
+
 .teacher-item footer button {
   width: 20rem;
   height: 5.6rem;
